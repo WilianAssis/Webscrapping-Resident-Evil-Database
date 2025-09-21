@@ -11,6 +11,7 @@ Este projeto realiza webscraping em bancos de dados relacionados à franquia Res
 ## Tecnologias Utilizadas
 
 - Python
+- Anaconda
 
 ## Como Usar
 
