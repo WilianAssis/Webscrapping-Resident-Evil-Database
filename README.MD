@@ -1,6 +1,6 @@
 # Webscrapping Resident Evil Database
 
-Este projeto realiza webscraping em bancos de dados relacionados à franquia Resident Evil, coletando informações relevantes para análise e consulta.
+Projeto de atuação com Webscrapping em bancos de dados relacionados à franquia de games Resident Evil, coletando informações relevantes para análise e consulta.
 
 ## Funcionalidades
 
@@ -30,4 +30,4 @@ Este projeto realiza webscraping em bancos de dados relacionados à franquia Res
 
 ## Contribuição
 
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
+Contribuições são super bem-vindas 😉
